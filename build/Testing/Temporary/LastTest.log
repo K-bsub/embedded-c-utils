@@ -1,0 +1,24 @@
+Start testing: May 02 16:07 PDT
+----------------------------------------------------------
+1/1 Testing: ring_buffer_tests
+1/1 Test: ring_buffer_tests
+Command: "/home/kiran/embedded-c-utils/build/test_ring_buffer"
+Directory: /home/kiran/embedded-c-utils/build
+"ring_buffer_tests" start time: May 02 16:07 PDT
+Output:
+----------------------------------------------------------
+PASS: test_init_is_empty
+PASS: test_push_pop
+PASS: test_full_rejects_push
+PASS: test_empty_rejects_pop
+
+All tests passed.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ring_buffer_tests" end time: May 02 16:07 PDT
+"ring_buffer_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 02 16:07 PDT
