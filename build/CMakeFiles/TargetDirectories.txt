@@ -1,5 +1,0 @@
-/home/kiran/embedded-c-utils/build/CMakeFiles/embedded_c_utils.dir
-/home/kiran/embedded-c-utils/build/CMakeFiles/test_ring_buffer.dir
-/home/kiran/embedded-c-utils/build/CMakeFiles/test.dir
-/home/kiran/embedded-c-utils/build/CMakeFiles/edit_cache.dir
-/home/kiran/embedded-c-utils/build/CMakeFiles/rebuild_cache.dir
